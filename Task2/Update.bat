@@ -1,2 +1,2 @@
-git fetch
+git pull
 git checkout master
