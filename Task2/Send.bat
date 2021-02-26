@@ -1,1 +1,1 @@
-git push shared master
+git push origin master
